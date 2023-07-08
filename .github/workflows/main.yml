@@ -66,3 +66,4 @@ jobs:
           context: ./backend/
           push: true
           tags: jackdemario/kittygram_backend:latest
+ 
